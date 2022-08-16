@@ -102,7 +102,7 @@ https://github.com/FurkanSamaraz/GoKurulum
 ```
 Visit my dropbox extension for videos;
 
-(https://www.dropbox.com/s/onuem2hjskfjkf0/1.mov?dl=0)
+https://www.dropbox.com/s/onuem2hjskfjkf0/1.mov?dl=0
 
 https://www.dropbox.com/s/egke24wsh4po2lr/2.mov?dl=0
 

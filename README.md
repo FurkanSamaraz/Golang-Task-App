@@ -98,7 +98,7 @@ https://github.com/FurkanSamaraz/GoKurulum
 24- By going to the "/UsersEntryAllGet" extension in the Postman, you can filter all the properties assigned to the users you have created, by filtering them.
 
 Visit my dropbox extension for videos;
-https://www.dropbox.com/s/onuem2hjskfjkf0/1.mov?dl=0
+(https://www.dropbox.com/s/onuem2hjskfjkf0/1.mov?dl=0)
 https://www.dropbox.com/s/egke24wsh4po2lr/2.mov?dl=0
 https://www.dropbox.com/s/65j3ph5emriftn7/3.mov?dl=0
 

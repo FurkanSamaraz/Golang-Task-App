@@ -23,7 +23,9 @@ What Does It Do?
 ### Prerequisites
 
 ```
-In order to run the project successfully, the requirements are golang version 1.18.2 as programming language, a suitable IDE and postman or similar Api test tool for testing are required.
+In order to run the project successfully, the requirements are golang version 1.18.2 
+as programming language, a suitable IDE and postman or similar Api test tool for testing 
+are required.
 ```
 
 ### Installing
@@ -155,14 +157,19 @@ Technologies used in the project;
 ## Running the tests
 
 ```
-_test.go tests were written for the files with the .go extension in the repository. You can run and check the tests by going to the appropriate file location with the 'go test -v' command or by opening the _test.go file and clicking the play button next to the functions.
+_test.go tests were written for the files with the .go extension in the repository. 
+You can run and check the tests by going to the appropriate file location with the 
+'go test -v' command or by opening the _test.go file and clicking the play button 
+next to the functions.
 
 ```
 
 ### And coding style tests
 
 ```
-There are two kinds of test algorithms in the _test.go files in the repository. 1 for Get requests. 2. Test algorithms for Post requests. httptest library is used for these test algorithms.
+There are two kinds of test algorithms in the _test.go files in the repository. 
+1 for Get requests. 2. Test algorithms for Post requests. httptest library is 
+used for these test algorithms.
 
 ```
 
@@ -170,7 +177,9 @@ There are two kinds of test algorithms in the _test.go files in the repository. 
 ## Deployment
 
 ```
-You can make the project live by creating a subscription with heroku, which I like in terms of interface and usage, or you can do the same by creating a container with docker.
+You can make the project live by creating a subscription with heroku, which 
+I like in terms of interface and usage, or you can do the same by creating 
+a container with docker.
 
 ```
 ## Build With

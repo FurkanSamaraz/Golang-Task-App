@@ -55,47 +55,71 @@ https://github.com/FurkanSamaraz/GoKurulum
 
 3- Go to the "/EntryCreate" extension in the Postman and create an entry.
 
-4- Add entryrelation to the entry you created by going to the "/EntryReltCreate" extension in the Postman.
+4- Add entryrelation to the entry you created by going to the "/EntryReltCreate" 
+extension in the Postman.
 
-5- Go to the "/EntryComCreate" extension in the Postman and assign a comment to the entry you have created by specifying the user.
+5- Go to the "/EntryComCreate" extension in the Postman and assign a comment to 
+the entry you have created by specifying the user.
 
-6- You can update the allowed items of the entry you have created by going to the "/EntryUpdate" extension in the Postman.
+6- You can update the allowed items of the entry you have created by going to the 
+"/EntryUpdate" extension in the Postman.
 
-7-You can update the allowed items of the entryrelation you have created by going to the "/EntryReltUpdate" extension in the post.
+7-You can update the allowed items of the entryrelation you have created by going 
+to the "/EntryReltUpdate" extension in the post.
 
-8-You can update the allowed items of the status you have created by going to the "/StatusUpdate" extension in the post.
+8-You can update the allowed items of the status you have created by going to the 
+"/StatusUpdate" extension in the post.
 
-9-You can pull the entries created in that date range by specifying the date range on the creation date of the entry you created by going to the "/EntryTimeCreGet" extension in the post.
+9-You can pull the entries created in that date range by specifying the date range 
+on the creation date of the entry you created by going to the "/EntryTimeCreGet" 
+extension in the post.
 
-10-You can pull the updated entries in that date range by specifying the date range on the update dates of the entry you created by going to the "/EntryTimeUpdGet" extension in the post.
+10-You can pull the updated entries in that date range by specifying the date range 
+on the update dates of the entry you created by going to the "/EntryTimeUpdGet" 
+extension in the post.
 
-11-You can pull the entries you have created by going to the "/EntryGet" extension in Postman.
+11-You can pull the entries you have created by going to the "/EntryGet" extension 
+in Postman.
 
-12-You can get the entries you have created by going to the "/EntryStatusGet" extension in Postman according to the status filtering.
+12-You can get the entries you have created by going to the "/EntryStatusGet" 
+extension in Postman according to the status filtering.
 
-13-You can pull the entries you have created by going to the "/EntryTagGet" extension in Postman according to Tag filtering.
+13-You can pull the entries you have created by going to the "/EntryTagGet" 
+extension in Postman according to Tag filtering.
 
-14-You can pull the entries you have created by going to the "/EntryAllGet" extension in the post with the assigned entryrelation information.
+14-You can pull the entries you have created by going to the "/EntryAllGet" 
+extension in the post with the assigned entryrelation information.
 
-15-You can pull the entries you have created by going to the "/EntryTrueGet" extension in Postman according to True/False filtering.
+15-You can pull the entries you have created by going to the "/EntryTrueGet" 
+extension in Postman according to True/False filtering.
 
-16-You can save the entries you have created by going to the "/EntryTopAllGet" extension in the post, the comments, entryrelation, user information etc. assigned to the entry. You can pull the features as a whole.
+16-You can save the entries you have created by going to the "/EntryTopAllGet" 
+extension in the post, the comments, entryrelation, user information etc. assigned 
+to the entry. You can pull the features as a whole.
 
-17- You can go to the "/EntryComGet" extension in the Postman and retrieve the comments assigned to the entry you have created.
+17- You can go to the "/EntryComGet" extension in the Postman and retrieve the 
+comments assigned to the entry you have created.
 
-18- You can delete the comments assigned to the entry you have created by going to the "/EntryComRemove" extension in the Postman.
+18- You can delete the comments assigned to the entry you have created by going 
+to the "/EntryComRemove" extension in the Postman.
 
-19- You can pull the entryrelations you have created by going to the "/EntryeReltGet" extension in the Postman.
+19- You can pull the entryrelations you have created by going to the "/EntryeReltGet" 
+extension in the Postman.
 
-20- By going to the "/EntryeReltMainGet" extension in the Postman, you can filter the entryrelations you have created by filtering whichever entry is assigned to it.
+20- By going to the "/EntryeReltMainGet" extension in the Postman, you can filter 
+the entryrelations you have created by filtering whichever entry is assigned to it.
 
-21- You can get the statuses you have created by going to the "/StatusGet" extension in Postman.
+21- You can get the statuses you have created by going to the "/StatusGet" extension 
+in Postman.
 
-22- You can pull the users you have created by going to the "/UsersGet" extension in Postman.
+22- You can pull the users you have created by going to the "/UsersGet" extension 
+in Postman.
 
-23- You can pull the users you have created by going to the "/UsersActiveGet" extension in the Postman according to the True/False filtering.
+23- You can pull the users you have created by going to the "/UsersActiveGet" extension 
+in the Postman according to the True/False filtering.
 
-24- By going to the "/UsersEntryAllGet" extension in the Postman, you can filter all the properties assigned to the users you have created, by filtering them.
+24- By going to the "/UsersEntryAllGet" extension in the Postman, you can filter all 
+the properties assigned to the users you have created, by filtering them.
 
 
 

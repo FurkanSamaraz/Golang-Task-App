@@ -6,9 +6,9 @@ The project I developed is a proprietary issue tracking product that enables bug
 My project, which is a demo software, is a project software that can be used in more than ten industries. 
 This software is a simple backend architecture with no frontend. In the future, the advanced version of the 
 project will be developed by me.
-
-What Does It Do?
-
+```
+## What Does It Do?
+```
 1- Developing new projects.
 
 2- Managing the process in long-term projects quickly and without errors

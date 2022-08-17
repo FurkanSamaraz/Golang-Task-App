@@ -126,7 +126,7 @@ in the Postman according to the True/False filtering.
 24- By going to the "/UsersEntryAllGet" extension in the Postman, you can filter all 
 the properties assigned to the users you have created, by filtering them.
 
-
+/Users/furkan/Desktop/GoProjects/src/Case_Quin_ai/Case/user/User_Diagram.png
 
 ```
 Visit my dropbox extension for videos;
